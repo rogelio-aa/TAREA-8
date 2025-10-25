@@ -1,0 +1,3 @@
+0 flamenco
+1 BUHO
+2 PINGUINO_E,PERADOR
